@@ -1,3 +1,3 @@
-# WordCount
-This is a wordcount program that uses Mapper and Reducer classes to demonstrate the functioning of a MapReduce framework.
+# In-Mapper AverageLength
+using a custom mapper with in-mapper combiner and reducer classes to calculate the average length of words starting with particular letters
 
